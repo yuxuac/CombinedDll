@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineDlls", "CombineDlls\CombineDlls.csproj", "{8E7FCF93-B17B-4F3A-80A7-95381A8E3C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyTool", "ThirdPartyTool\ThirdPartyTool.csproj", "{3BB3A92A-F6CB-489E-A78D-238B3AB16DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7FCF93-B17B-4F3A-80A7-95381A8E3C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7FCF93-B17B-4F3A-80A7-95381A8E3C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7FCF93-B17B-4F3A-80A7-95381A8E3C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7FCF93-B17B-4F3A-80A7-95381A8E3C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB3A92A-F6CB-489E-A78D-238B3AB16DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB3A92A-F6CB-489E-A78D-238B3AB16DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB3A92A-F6CB-489E-A78D-238B3AB16DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB3A92A-F6CB-489E-A78D-238B3AB16DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA49F79C-4F73-4DED-B11C-538D1CC18475}
+	EndGlobalSection
+EndGlobal
